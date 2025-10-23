@@ -1,0 +1,12 @@
+FORMATTING
+*.*.*
+major.minor.patch
+
+MAJOR:
+A production release that includes significant changes and features.
+
+MINOR:
+A production release that includes minor changes and features.
+
+PATCH:
+A pre-production release or production release that includes bug fixes and/or minor changes to the application/codebase.
